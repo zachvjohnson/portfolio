@@ -1,0 +1,166 @@
+[{
+		"type": "personMove",
+		"timestamp": 1000,
+		"location": "Bedroom",
+		"tag": "kid_2",
+		"flag": "on",
+		"priority": 2
+	},
+	{
+		"type": "DogOut",
+		"timestamp": 4000,
+		"location": "backyard",
+		"tag": "none",
+		"flag": "on",
+		"priority": 2,
+		"note": "outside"
+	},{
+		"type": "Appliance",
+		"timestamp": 7000,
+		"location": "kitchen",
+		"tag": "stove",
+		"flag": "on",
+		"priority": 2,
+		"note": "Burner 2 set to medium"
+	},{
+		"type": "DogIn",
+		"timestamp": 8020,
+		"location": "kids bedroom",
+		"tag": "kid_2",
+		"flag": "on",
+		"priority": 2
+	},{
+		"type": "contractor",
+		"timestamp": 10000,
+		"location": "Project Bathroom",
+		"tag": "",
+		"flag": "work",
+		"priority": 2,
+		"note": ""
+	},{
+		"type": "Appliance",
+		"timestamp": 11000,
+		"tag": "Bob",
+		"flag": "free",
+		"priority": 2
+	},{
+		"type": "Work",
+		"timestamp": 13000,
+		"location": "Teams",
+		"tag": "Boss",
+		"flag": "work",
+		"priority": 1,
+		"note": ""
+	},{
+		"type": "Appliance",
+		"timestamp": 14000,
+		"location": "Kitchen",
+		"tag": "stove",
+		"flag": "on",
+		"priority": 3
+	},{
+		"type": "personMove",
+		"timestamp": 16000,
+		"tag": "contractor",
+		"flag": "busy",
+		"priority": 2
+	},{
+		"type": "Appliance",
+		"timestamp": 17800,
+		"location": "Kitchen",
+		"tag": "sink",
+		"flag": "on",
+		"priority": 2
+	},{
+		"type": "delivery",
+		"timestamp": 19000,
+		"tag": "Amazon",
+		"flag": "No signing",
+		"priority": 2
+	},{
+		"type": "personMove",
+		"timestamp": 21000,
+		"location": "Basement",
+		"tag": "child 2",
+		"flag": "",
+		"priority": 1,
+		"note": "Customer Site 2"
+	},{
+		"type": "delivery",
+		"timestamp": 23000,
+		"location": "porch",
+		"tag": "Sign for package",
+		"flag": "on",
+		"priority": 1
+	},{
+		"type": "DogIn",
+		"timestamp": 25000,
+		"location": "livingRoom",
+		"tag": "Dog came inside",
+		"flag": "",
+		"priority": 3
+	},{
+		"type": "personMove",
+		"timestamp": 27000,
+		"location": "kitchen",
+		"tag": "housekeeper",
+		"flag": "on",
+		"priority": 3
+	},{
+		"type": "ChildLeaveSchool",
+		"timestamp": 29000,
+		"location": "Elementary School",
+		"tag": "On bus",
+		"flag": "off",
+		"priority": 3
+	},{
+		"type": "delivery",
+		"timestamp": 30500,
+		"location": "Front Porch",
+		"tag": "PacSun",
+		"flag": "personal",
+		"priority": 3,
+		"note": ""
+	},{
+		"type": "contractor",
+		"timestamp": 32000,
+		"location": "utility room",
+		"tag": "plumber",
+		"flag": "on",
+		"priority": 3
+	},{
+		"type": "Appliance",
+		"timestamp": 34000,
+		"location": "laundry room",
+		"tag": "washing done",
+		"flag": "on",
+		"priority": 3
+	},{
+		"type": "Work",
+		"timestamp": 36000,
+		"location": "Gmail",
+		"tag": "Debrief",
+		"flag": "on",
+		"priority": 3
+	},{
+		"type": "DogOut",
+		"timestamp": 37500,
+		"location": "Backyard",
+		"tag": "Allowed",
+		"flag": "off",
+		"priority": 2
+	},{
+		"type": "Work",
+		"timestamp": 39000,
+		"location": "Teams",
+		"tag": "accepted",
+		"priority": 1,
+		"note": ""
+	},{
+		"type": "Appliance",
+		"timestamp": 41000,
+		"tag": "Stove",
+		"flag": "On",
+		"priority": 2
+	}
+]
